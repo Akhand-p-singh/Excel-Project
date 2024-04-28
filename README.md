@@ -10,23 +10,23 @@
 
 ---
 
-# ☕ Project 1 : Coffee shop sales Dashboard
+# ☕ Project 1: Coffee shop sales Dashboard
 
 
 #### About Project - 
 
 ![App Screen Shot](https://raw.githubusercontent.com/Akhand-p-singh/Excel-Project/master/1.%20Coffee%20Shop%20Sales%20Dashboard/Dashboard%20Image.png)
 
-Transaction records for Maven Roasters, a fictitious coffee shop operating out of three NYC locations. Dataset includes the transaction date, timestamp and location, along with product-level details.
+Transaction records for Maven Roasters, a fictitious coffee shop operating out of three NYC locations. The dataset includes the transaction date, timestamp, and location, along with product-level details.
 
 
 #### Recommended Analysis -
 
 * How have Maven Roasters sales trended over time?
 
-* Which days of the week tend to be busiest, and why do you think that's the case?
+* Which days of the week are busiest, and why do you think that's the case?
 
-* Which products are sold most and least often? Which drive the most revenue for the business?
+* Which products are sold most and least often? Which drives the most revenue for the business?
 
 #### Interact with Live Dashboard [from here](https://1drv.ms/x/c/b9e917e0c771db36/Ee3-vTxa_HZGsq1mflI2QF8BL75KIoEeqnTkEc89rK684w?e=99OUIU) 
 
@@ -39,14 +39,14 @@ Transaction records for Maven Roasters, a fictitious coffee shop operating out o
 
 ![App Screen Shot](https://raw.githubusercontent.com/Akhand-p-singh/Excel-Project/master/2.%20Bike%20Sales%20Dashboard/Dashboard%20Image.png)
 
-Survey was done among the people from different regions and from the categories like highest education, Salary, how much you travel from your bike.
+A survey was done among people from different regions and from categories like highest education, Salary, and how much you travel from your bike.
 
 
 #### Recommended Analysis - 
 
-* Have you Puchased bike or not?
+* Have you Purchased a bike or not?
 
-* How much you travel from your bike?
+* How much do you travel on your bike?
 
 * How old are you?
 
@@ -64,20 +64,20 @@ Survey was done among the people from different regions and from the categories 
 ![App Screen Shot](https://raw.githubusercontent.com/Akhand-p-singh/Excel-Project/master/3.%20Call%20Center%20Dashboard/Dashboard%20Image.png)
 
 
-Data was captured by company internal software about the Customer calls and their experience. 
+The company's internal software captured data about the Customer calls and their experience. 
 
 
 #### Recommended Analysis - 
 
 * Daily calls is there any drop?
 
-* How's the customer experience with call center executive? Did they solve the problem.
+* How's the customer experience with the call center executive? Did they solve the problem?
 
-* Most number of Complaint.
+* Most number of Complaints.
 
-* Is chat-bot really working to solve the customer query?
+* Is the chatbot working to solve the customer query?
 
-* Which call center recieve most number of calls?
+* Which call center receives the most number of calls?
 
 
 #### Interact with Live Dashboard [from here](https://1drv.ms/x/c/b9e917e0c771db36/EbfdSuVVwf1BgqC29jh3wm8BYrnqmmXpBaH2K588TDXRbg?e=HLGRk9)
@@ -91,7 +91,7 @@ Data was captured by company internal software about the Customer calls and thei
 
 ![App Screen Shot](https://raw.githubusercontent.com/Akhand-p-singh/Excel-Project/master/4.%20Sales%20Excel%20Dashboard/Dashboard%20image.png)
 
-Online e-commerce website data is provided to candidate who applied for Data Analyst intern Position and asked to Analyse the Data in Excel.
+Online e-commerce website data is provided to candidates who applied for the Data Analyst intern Position and asked to Analyse the Data in Excel.
 
 #### Recommended Analysis - 
 
