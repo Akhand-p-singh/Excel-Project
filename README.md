@@ -10,7 +10,7 @@
 
 ---
 
-# Project 1 : Coffee shop sales Dashboard
+# ☕ Project 1 : Coffee shop sales Dashboard
 
 
 #### About Project - 
@@ -33,7 +33,7 @@ Transaction records for Maven Roasters, a fictitious coffee shop operating out o
 
 ---
 
-# Project 2 - Bike Sales Dashboard
+# 🚲 Project 2 - Bike Sales Dashboard
 
 #### About Project - 
 
@@ -57,7 +57,7 @@ Survey was done among the people from different regions and from the categories 
 ---
 
 
-# Project 3 - Call Center Dashboard 
+# 📞 Project 3 - Call Center Dashboard 
 
 #### About Project - 
 
@@ -85,7 +85,7 @@ Data was captured by company internal software about the Customer calls and thei
 ---
 
 
-# Project 4 - Sales Dashboard 
+# 💰 Project 4 - Sales Dashboard 
 
 #### About Project - 
 
