@@ -25,4 +25,4 @@ A business analytic tool aims to analyze and present actionable information. For
 * For cohorts like 2018 Jun, retention falls steeply to 16% within 6 months, suggesting a particularly problematic customer experience.
 * By the 12th month, many cohorts level out, and retention stabilizes at low percentages (~20-40%). Retention strategies could focus on this point to improve lifetime value (LTV). 
 
-#### Interact with Live Dashboard [from here](https://bit.ly/3Pyk9wb) 
+#### Interact with Live Dashboard [from here](https://bit.ly/42iGxl7) 
