@@ -3,18 +3,18 @@
 
 #### About Project - 
 
-![App Screen Shot](https://raw.githubusercontent.com/Akhand-p-singh/Excel-Project/refs/heads/master/5.%20Cohort%20Analysis/Retention%20Anlysis.png)
+![App Screen Shot](https://raw.githubusercontent.com/Akhand-p-singh/Excel-Project/refs/heads/master/5.%20Cohort%20Analysis/Retention%20Analysis.png)
 
 This project uses a real-world dataset to conduct a cohort analysis for a subscription model. The aim is to measure the retention and churn analysis.
 
 
 #### What is Cohort Analysis?
 
-Cohort analysis is a type of behavioral analytics in which you take a group of users and analyze their usage patterns based on their shared traits to better track and understand their actions. A cohort is simply a group of people with shared characteristics.
+Cohort analysis is a type of behavioral analytics in which you take a group of users and analyze their usage patterns based on their shared traits to track better and understand their actions. A cohort is simply a group of people with shared characteristics.
 
 #### Objective
 
-The goal of a business analytic tool is to analyze and present actionable information. In order for a company to act on such information, it must be relevant to the situation under analysis.
+A business analytic tool aims to analyze and present actionable information. For a company to act on such information, it must be relevant to the situation under analysis.
 
 #### Insight
 
@@ -25,4 +25,4 @@ The goal of a business analytic tool is to analyze and present actionable inform
 * For cohorts like 2018 Jun, retention falls steeply to 16% within 6 months, suggesting a particularly problematic customer experience.
 * By the 12th month, many cohorts level out, and retention stabilizes at low percentages (~20-40%). Retention strategies could focus on this point to improve lifetime value (LTV). 
 
-#### Interact with Live Dashboard [from here](https://bit.ly/3W02vVV) 
+#### Interact with Live Dashboard [from here](https://bit.ly/3Pyk9wb) 
